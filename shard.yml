@@ -1,0 +1,13 @@
+name: deviation
+version: 0.1.0
+
+authors:
+  - Vladimir <remote_racoon@mail.ru>
+
+targets:
+  deviation:
+    main: src/deviation.cr
+
+crystal: 0.31.1
+
+license: MIT
